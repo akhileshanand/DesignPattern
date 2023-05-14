@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FactoryMethodDesignPattern/1.0.0": {
+        "dependencies": {
+          "SimplefactoryDesignPatterns": "1.0.0"
+        },
+        "runtime": {
+          "FactoryMethodDesignPattern.dll": {}
+        }
+      },
+      "SimplefactoryDesignPatterns/1.0.0": {
+        "runtime": {
+          "SimplefactoryDesignPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoryMethodDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimplefactoryDesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
