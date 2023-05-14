@@ -1,0 +1,15 @@
+C:\Users\Win10 pro\source\repos\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.exe
+C:\Users\Win10 pro\source\repos\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.deps.json
+C:\Users\Win10 pro\source\repos\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.runtimeconfig.json
+C:\Users\Win10 pro\source\repos\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.dll
+C:\Users\Win10 pro\source\repos\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.pdb
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.AssemblyInfo.cs
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.dll
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\refint\SimplefactoryDesignPatterns.dll
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.pdb
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.genruntimeconfig.cache
+C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\ref\SimplefactoryDesignPatterns.dll
