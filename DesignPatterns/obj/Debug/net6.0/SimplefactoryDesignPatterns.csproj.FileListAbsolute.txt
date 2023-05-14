@@ -13,3 +13,18 @@ C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\refint\Simplefac
 C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.pdb
 C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.genruntimeconfig.cache
 C:\Users\Win10 pro\source\repos\DesignPatterns\obj\Debug\net6.0\ref\SimplefactoryDesignPatterns.dll
+D:\Repos\DesignPattern\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.exe
+D:\Repos\DesignPattern\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.deps.json
+D:\Repos\DesignPattern\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.runtimeconfig.json
+D:\Repos\DesignPattern\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.dll
+D:\Repos\DesignPattern\DesignPatterns\bin\Debug\net6.0\SimplefactoryDesignPatterns.pdb
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.csproj.AssemblyReference.cache
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.AssemblyInfoInputs.cache
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.AssemblyInfo.cs
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.csproj.CoreCompileInputs.cache
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.dll
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\refint\SimplefactoryDesignPatterns.dll
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.pdb
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\SimplefactoryDesignPatterns.genruntimeconfig.cache
+D:\Repos\DesignPattern\DesignPatterns\obj\Debug\net6.0\ref\SimplefactoryDesignPatterns.dll

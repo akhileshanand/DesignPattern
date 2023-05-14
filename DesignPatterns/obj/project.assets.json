@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10 pro\\source\\repos\\DesignPatterns\\SimplefactoryDesignPatterns.csproj",
+      "projectUniqueName": "D:\\Repos\\DesignPattern\\DesignPatterns\\SimplefactoryDesignPatterns.csproj",
       "projectName": "SimplefactoryDesignPatterns",
-      "projectPath": "C:\\Users\\Win10 pro\\source\\repos\\DesignPatterns\\SimplefactoryDesignPatterns.csproj",
+      "projectPath": "D:\\Repos\\DesignPattern\\DesignPatterns\\SimplefactoryDesignPatterns.csproj",
       "packagesPath": "C:\\Users\\Win10 pro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win10 pro\\source\\repos\\DesignPatterns\\obj\\",
+      "outputPath": "D:\\Repos\\DesignPattern\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

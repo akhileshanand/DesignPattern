@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DvAi815e8i+4vcORtmm4OzjGcSeOZJfdF6EX21zkNB/ld6x0+tAt0SdwtoGryF83KnuwjQl20/9AtkfBl1+8A==",
+  "dgSpecHash": "JRnNM2UZPaNZJQNhaT2S6ntWDzHObcJDiyHr8RcJoBlWQtpk5BAz+DaQiceHwv5yWxLhCgIyHRwxQPzxwL1iew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win10 pro\\source\\repos\\DesignPatterns\\SimplefactoryDesignPatterns.csproj",
+  "projectFilePath": "D:\\Repos\\DesignPattern\\DesignPatterns\\SimplefactoryDesignPatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

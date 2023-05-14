@@ -17,3 +17,22 @@ C:\Users\Win10 pro\source\repos\AdapterDesignPattern\obj\Debug\net6.0\refint\Ada
 C:\Users\Win10 pro\source\repos\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.pdb
 C:\Users\Win10 pro\source\repos\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.genruntimeconfig.cache
 C:\Users\Win10 pro\source\repos\AdapterDesignPattern\obj\Debug\net6.0\ref\AdapterDesignPattern.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.exe
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.deps.json
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.runtimeconfig.json
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.pdb
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfo.cs
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CopyComplete
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\refint\AdapterDesignPattern.dll
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.pdb
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.genruntimeconfig.cache
+D:\Repos\DesignPattern\AdapterDesignPattern\obj\Debug\net6.0\ref\AdapterDesignPattern.dll

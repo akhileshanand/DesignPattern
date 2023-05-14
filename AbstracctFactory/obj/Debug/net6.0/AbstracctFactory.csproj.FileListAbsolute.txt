@@ -13,3 +13,18 @@ C:\Users\Win10 pro\source\repos\AbstracctFactory\obj\Debug\net6.0\refint\Abstrac
 C:\Users\Win10 pro\source\repos\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.pdb
 C:\Users\Win10 pro\source\repos\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.genruntimeconfig.cache
 C:\Users\Win10 pro\source\repos\AbstracctFactory\obj\Debug\net6.0\ref\AbstracctFactory.dll
+D:\Repos\DesignPattern\AbstracctFactory\bin\Debug\net6.0\AbstracctFactory.exe
+D:\Repos\DesignPattern\AbstracctFactory\bin\Debug\net6.0\AbstracctFactory.deps.json
+D:\Repos\DesignPattern\AbstracctFactory\bin\Debug\net6.0\AbstracctFactory.runtimeconfig.json
+D:\Repos\DesignPattern\AbstracctFactory\bin\Debug\net6.0\AbstracctFactory.dll
+D:\Repos\DesignPattern\AbstracctFactory\bin\Debug\net6.0\AbstracctFactory.pdb
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.csproj.AssemblyReference.cache
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.AssemblyInfoInputs.cache
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.AssemblyInfo.cs
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.csproj.CoreCompileInputs.cache
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.dll
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\refint\AbstracctFactory.dll
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.pdb
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\AbstracctFactory.genruntimeconfig.cache
+D:\Repos\DesignPattern\AbstracctFactory\obj\Debug\net6.0\ref\AbstracctFactory.dll

@@ -19,3 +19,24 @@ C:\Users\Win10 pro\source\repos\FactoryMethodDesignPattern\bin\Debug\net6.0\Simp
 C:\Users\Win10 pro\source\repos\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.dll
 C:\Users\Win10 pro\source\repos\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.pdb
 C:\Users\Win10 pro\source\repos\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.CopyComplete
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.deps.json
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.runtimeconfig.json
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.exe
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.exe
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.deps.json
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.runtimeconfig.json
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.dll
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.pdb
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.dll
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\bin\Debug\net6.0\SimplefactoryDesignPatterns.pdb
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.AssemblyReference.cache
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.AssemblyInfoInputs.cache
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.AssemblyInfo.cs
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.CopyComplete
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.dll
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\refint\FactoryMethodDesignPattern.dll
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.pdb
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.genruntimeconfig.cache
+D:\Repos\DesignPattern\FactoryMethodDesignPattern\obj\Debug\net6.0\ref\FactoryMethodDesignPattern.dll

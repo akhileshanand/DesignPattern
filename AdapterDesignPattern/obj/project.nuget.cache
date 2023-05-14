@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fR/SEdmcBkLGdn+WyFKLGl4hLui00RKUiMgq6CcHzGdVvbUjkZEsLjMWo9rFYMF046eWerwwoktDUOGMtX/gA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10 pro\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\Win10 pro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Win10 pro\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

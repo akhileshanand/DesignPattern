@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10 pro\\source\\repos\\AbstracctFactory\\AbstracctFactory.csproj",
+      "projectUniqueName": "D:\\Repos\\DesignPattern\\AbstracctFactory\\AbstracctFactory.csproj",
       "projectName": "AbstracctFactory",
-      "projectPath": "C:\\Users\\Win10 pro\\source\\repos\\AbstracctFactory\\AbstracctFactory.csproj",
+      "projectPath": "D:\\Repos\\DesignPattern\\AbstracctFactory\\AbstracctFactory.csproj",
       "packagesPath": "C:\\Users\\Win10 pro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win10 pro\\source\\repos\\AbstracctFactory\\obj\\",
+      "outputPath": "D:\\Repos\\DesignPattern\\AbstracctFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
