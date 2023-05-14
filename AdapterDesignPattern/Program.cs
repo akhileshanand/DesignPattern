@@ -14,5 +14,6 @@ namespace AdapterDesignPattern
             string value = emp.GetEmployee();
             Console.WriteLine(value);
         }
+
     }
 }
